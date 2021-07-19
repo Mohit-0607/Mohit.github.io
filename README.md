@@ -4,12 +4,10 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAL
 
 anyone with zero experience on programming can learn. I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit: www.shapeal.tech
 
-or follow SHAPEAL on: <li><a href="https://in.linkedin.com/company/shapeai">LinkedIn</a> <li><a href="https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+or follow SHAPEAL on: <li><a href="https://in.linkedin.com/company/shapeai">LinkedIn</a> 
 
-<li><a
+<li><a href="https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 
-href="https://www.youtube.com/channel/UCTUVDLTW9meuDXWcbmISPdA">YouTu
+<li><a href="https://www.youtube.com/channel/UCTUVDLTW9meuDXWcbmISPdA">YouTube</a>
 
-be</a>
-
-<li><a href="https://github.com/shapcai'>GitHub</a>
+<li><a href="https://github.com/shapeai'>GitHub</a>
